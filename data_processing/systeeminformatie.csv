@@ -1,0 +1,2 @@
+﻿serienummer,computernaam,computermodel,processor,aantal_fysieke_cpu_cores,maximale_cpu_frequentie_mhz,totale_hoeveelheid_ram_gb,bestandssysteem_opslag,opslagcapaciteit_gb,mac_adres_primaire_nic,ipv4_adres_primaire_nic,ipv6_adres_primaire_nic,ipv6_link_local_adres_primaire_nic
+Onbekend,labvm,x86_64,x86_64,2,N/A,7.78,ext4,30.14,08:00:27:e9:3d:e6,10.0.2.15,fd17:625c:f037:2:a00:27ff:fee9:3de6,fe80::a00:27ff:fee9:3de6
