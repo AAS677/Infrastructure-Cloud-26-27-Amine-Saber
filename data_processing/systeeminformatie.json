@@ -1,15 +1,15 @@
 {
     "serienummer": "Onbekend",
-    "computernaam": "labvm",
+    "computernaam": "amine-VMware-Virtual-Platform",
     "computermodel": "x86_64",
-    "processor": "x86_64",
+    "processor": "",
     "aantal_fysieke_cpu_cores": 2,
-    "maximale_cpu_frequentie_mhz": null,
-    "totale_hoeveelheid_ram_gb": 7.78,
+    "maximale_cpu_frequentie_mhz": 0.0,
+    "totale_hoeveelheid_ram_gb": 7.2,
     "bestandssysteem_opslag": "ext4",
-    "opslagcapaciteit_gb": 30.14,
-    "mac_adres_primaire_nic": "08:00:27:e9:3d:e6",
-    "ipv4_adres_primaire_nic": "10.0.2.15",
-    "ipv6_adres_primaire_nic": "fd17:625c:f037:2:a00:27ff:fee9:3de6",
-    "ipv6_link_local_adres_primaire_nic": "fe80::a00:27ff:fee9:3de6"
+    "opslagcapaciteit_gb": 19.52,
+    "mac_adres_primaire_nic": "00:0c:29:13:a9:60",
+    "ipv4_adres_primaire_nic": "192.168.80.133",
+    "ipv6_adres_primaire_nic": null,
+    "ipv6_link_local_adres_primaire_nic": "fe80::20c:29ff:fe13:a960"
 }
